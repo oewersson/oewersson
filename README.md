@@ -27,7 +27,10 @@
   <a href="https://www.linkedin.com/in/oewersson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/oewersson/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/ewerssontw" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ewerssonassisdj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     
+  <a href = "mailto:ewerssonassisdj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+  <a href="https://cursos.alura.com.br/vitrinedev/ewersson" target="_blank"><img src="https://img.shields.io/badge/vitrine.dev-07283F?style=for-the-badge" alt="Vitrine.Dev, meu portfólio na Alura"></a>  
+  <a href="https://ewerssonassis.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0A182E?style=for-the-badge" alt="Meu portfólio pessoal"></a>
 </div>
+     
+
 
